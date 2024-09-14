@@ -6,7 +6,7 @@ Access it here: [prompt creator](https://igamenovoer.github.io/crystal-moment/)
 # How to use
 
 ## Load xlsx file
-<video src="examples/load-xlsx.mp4">
+<video src="https://github.com/igamenovoer/crystal-moment/raw/main/examples/for-each-prompt.mp4" />
 
 ## Create a complete prompt
 <video src="examples/complete.mp4">
