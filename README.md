@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/d3b0140b-88d3-4cea-ba93-72ea5649c563
 
 
 ## Create a complete prompt
-<video src="examples/complete.mp4">
+https://raw.githubusercontent.com/igamenovoer/crystal-moment/main/examples/complete.mp4
 
 ## Create prompt using all rows
 <video src="https://raw.githubusercontent.com/igamenovoer/crystal-moment/main/examples/for-each-prompt.mp4" />
