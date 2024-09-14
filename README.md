@@ -5,6 +5,11 @@ Access it here: [prompt creator](https://igamenovoer.github.io/crystal-moment/)
 
 # How to use
 
+## xlsx sample format
+
+![image](https://github.com/user-attachments/assets/88652454-bfaf-4f92-937a-a58d8a247bed)
+
+
 ## Load xlsx file
 
 
