@@ -13,10 +13,23 @@ https://github.com/user-attachments/assets/d3b0140b-88d3-4cea-ba93-72ea5649c563
 
 
 ## Create a complete prompt
-https://raw.githubusercontent.com/igamenovoer/crystal-moment/main/examples/complete.mp4
+
+
+
+https://github.com/user-attachments/assets/5fb12904-ea8c-4097-a2ae-b1884e8e94ac
+
+
 
 ## Create prompt using all rows
-<video src="https://raw.githubusercontent.com/igamenovoer/crystal-moment/main/examples/for-each-prompt.mp4" />
+
+
+https://github.com/user-attachments/assets/1ba16c24-aff8-4b0b-a145-35e936ed0190
+
+
 
 ## Create prompt using selected rows
-<video src="examples/static-prompt.mp4">
+
+
+
+https://github.com/user-attachments/assets/67bd3540-b983-4008-9d67-4e2b353012e8
+
